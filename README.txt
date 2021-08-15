@@ -1,3 +1,9 @@
+Local data sharing Utility
+
+We can use program for upload/download data from you PC to local connected devices(connected device from Wifi router/LAN ) i.e PC/mobile device etc .
+We can upload/download image,video,pdf or any document. If you need you can modify the source accordingly.
+
+
 ##################################README###########################
 1. Installed NodeJs setup
 2. run node install --->>> for add required package in project
